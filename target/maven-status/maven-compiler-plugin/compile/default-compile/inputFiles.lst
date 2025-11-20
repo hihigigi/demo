@@ -1,0 +1,10 @@
+/workspaces/demo/src/main/java/com/example/demo/repository/UserRepository.java
+/workspaces/demo/src/main/java/com/example/demo/controller/AuthController.java
+/workspaces/demo/src/main/java/com/example/demo/DemoApplication.java
+/workspaces/demo/src/main/java/com/example/demo/service/UserService.java
+/workspaces/demo/src/main/java/com/example/demo/repository/PostRepository.java
+/workspaces/demo/src/main/java/com/example/demo/controller/HomeController.java
+/workspaces/demo/src/main/java/com/example/demo/entity/Post.java
+/workspaces/demo/src/main/java/com/example/demo/controller/PostController.java
+/workspaces/demo/src/main/java/com/example/demo/entity/User.java
+/workspaces/demo/src/main/java/com/example/demo/service/PostService.java
